@@ -1,0 +1,5 @@
+Primary:     #0EA5E9   (Sky Blue – trust & freshness)
+Secondary:   #06B6D4   (Cyan – energy & modern feel)
+Accent:      #F97316   (Orange – action, CTA buttons)
+Dark:        #0F172A   (Deep navy for text/contrast)
+Light:       #F8FAFC   (Clean background)
